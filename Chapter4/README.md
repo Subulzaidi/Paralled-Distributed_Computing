@@ -1,1 +1,1 @@
-![ALT TEXT]("assets/image.png")
+![ALT TEXT](assets/image.png)
