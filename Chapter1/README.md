@@ -1,4 +1,4 @@
 Task 1
-![alt text](/assets/image.png)
+![alt text](/assets/task1.png)
 Task 2
-![alt text](/assets/image.png)
+![alt text](/assets/task2.png)
