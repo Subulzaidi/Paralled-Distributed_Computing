@@ -1,4 +1,5 @@
 Task 1
-(\assets\task1.png)
+![Alt text](assets/task1.png)
 Task 2
-(/assets/task2.png)
+
+![Alt text](assets/task2.png)
